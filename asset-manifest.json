@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/todo-react-v1/static/css/main.284d1a62.css",
+    "main.js": "/todo-react-v1/static/js/main.6298b48a.js",
+    "static/media/exo-2-v21-cyrillic_cyrillic-ext_latin-800italic.woff2": "/todo-react-v1/static/media/exo-2-v21-cyrillic_cyrillic-ext_latin-800italic.5d0e679f2ebb9edb57cd.woff2",
+    "static/media/exo-2-v21-cyrillic_cyrillic-ext_latin-700.woff2": "/todo-react-v1/static/media/exo-2-v21-cyrillic_cyrillic-ext_latin-700.328422222829f28059bc.woff2",
+    "static/media/exo-2-v21-cyrillic_cyrillic-ext_latin-regular.woff2": "/todo-react-v1/static/media/exo-2-v21-cyrillic_cyrillic-ext_latin-regular.2c5f75d4f37740b06c62.woff2",
+    "index.html": "/todo-react-v1/index.html",
+    "main.284d1a62.css.map": "/todo-react-v1/static/css/main.284d1a62.css.map",
+    "main.6298b48a.js.map": "/todo-react-v1/static/js/main.6298b48a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.284d1a62.css",
+    "static/js/main.6298b48a.js"
+  ]
+}

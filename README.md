@@ -11,7 +11,7 @@ Try it here: https://itsonlythebeginning.github.io/todo-react-v1/
 > 
 > В следующей версии приложения будет добавлен функционал получения данных с сервера
 
-## Функционал
+## Functions
 
 Дела можно:
 - [x] Добавлять

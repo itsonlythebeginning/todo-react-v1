@@ -3,7 +3,7 @@
 Try it here: https://itsonlythebeginning.github.io/todo-react-v1/
 
 
-Чеклист представляющий собой список дел.
+Чеклист представляющий собой список дел
 
 > Это первая версия приложения
 > 
@@ -23,7 +23,23 @@ Try it here: https://itsonlythebeginning.github.io/todo-react-v1/
 - [x] Отслеживать через счетчик кол-во активных/выполенных дел
 - [ ] Перемещать
 
-![todo-list-preview](https://github.com/user-attachments/assets/33acfbd9-e33a-4b43-8bdd-aa91cc1955ac)
+
+
+## 
+
+```mermaid
+graph
+A[TasksContext] -- tasks --> B[App]
+B[App] --> C[TodoCreate]
+B[App] --> D[TodoStatus]
+B[App] --> E[TodoSearch]
+B[App] --> F[TodoList]
+F[TodoList] --> G[TodoShow]
+G[TodoShow] --> H[TodoEdit]
+```
+## 
+
+![todo-list-preview](https://github.com/user-attachments/assets/ebaf8267-9bf8-449c-9637-adc01294e65a)
 
 
 

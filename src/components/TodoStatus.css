@@ -1,0 +1,34 @@
+
+
+
+.todoStatus{
+    margin-left: auto;
+}
+
+
+.todoStatus__more{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.todoStatus__done{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+
+}
+
+
+
+.todoStatus__more-counter{
+    font-size: 18px;
+    font-weight: 700;
+    margin-right: 5px;
+}
+
+.todoStatus__done-counter{
+    font-size: 18px;
+    font-weight: 700;
+    margin-right: 6px;
+}

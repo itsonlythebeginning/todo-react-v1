@@ -1,0 +1,44 @@
+
+
+
+
+
+.todoEdit{
+    border-bottom: 1px solid black;
+}
+
+.todoEdit__form{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+
+}
+
+
+.todoEdit__form-input{
+    padding: 15px;
+    width: 75%;
+
+    font-size: 22px;
+    font-weight: 700;
+}
+
+
+.todoEdit__form-button{
+    background-color: var(--color-blue-1);
+    display: flex;
+    text-align: center;
+    align-items: center;
+    height: 45px;
+    padding: 14px;
+    font-weight: 600;
+    font-size: 16px;
+    border-radius: 5px;
+    margin: 0 auto;
+}
+
+
+
+.todoEdit__form-button:hover{
+    opacity: 0.7;
+}

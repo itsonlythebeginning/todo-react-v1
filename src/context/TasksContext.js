@@ -32,11 +32,6 @@ function Provider({children}) {
     const [activeCount, setActiveCount] = useState(activeTasksCount)
     const [doneCount, setDoneCount] = useState(doneTasksCount)
 
-    // useEffect( () => {
-    //     setActiveCount(activeTasksCount)
-    //     setDoneCount(doneTasksCount)
-    // }, [activeTasksCount, doneTasksCount]  )
-
 
     const addTodoTask = (title) => {
 
@@ -45,7 +40,6 @@ function Provider({children}) {
         setActiveCount(activeCount+1)
 
         setTasks([...tasks, {id : randomId, title: title, done: false, isVisibility: true}])
-
 
     }
 
@@ -213,7 +207,6 @@ function Provider({children}) {
     }
 
 
-
     return (
 
         <TasksContext.Provider value={valueToShare}>
@@ -223,13 +216,7 @@ function Provider({children}) {
     )
 
 
-
 }
-
-
-
-
-
 
 
 
@@ -238,8 +225,6 @@ export {Provider}
 
 
 export default TasksContext
-
-
 
 
 

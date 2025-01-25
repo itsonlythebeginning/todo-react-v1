@@ -1,3 +1,32 @@
+# About project
+
+Try it here: https://itsonlythebeginning.github.io/todo-react-v1/
+
+
+Чеклист представляющий собой список дел.
+
+> Это первая версия приложения
+> 
+> В этой версии приложения все данные хранятся локально (внутри самого приложения)
+> 
+> В следующей версии приложения будет добавлен функционал получения данных с сервера
+
+## Функционал
+
+Дела можно:
+- [x] Добавлять
+- [x] Изменять
+- [x] Удалять
+- [x] Отмечать сделанными
+- [x] Сортировать по статусу выполнения
+- [x] Искать нужное дело через поиск
+- [x] Отслеживать через счетчик кол-во активных/выполенных дел
+- [ ] Перемещать
+
+![todo-list-preview](https://github.com/user-attachments/assets/33acfbd9-e33a-4b43-8bdd-aa91cc1955ac)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

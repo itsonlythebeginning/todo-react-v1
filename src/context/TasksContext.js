@@ -8,8 +8,8 @@ function Provider({children}) {
 
 
     const [tasks, setTasks] = useState([
-        {"id" : "111", "title": "Привет, как дела", "done": false, "isVisibility": true},
-        {"id" : "222", "title": "Hello Word!!!", "done": true, "isVisibility": true}
+        {"id" : "111", "title": "Send Email", "done": false, "isVisibility": true},
+        {"id" : "222", "title": "Go to the Gym", "done": true, "isVisibility": true}
     ])
 
 

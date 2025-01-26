@@ -29,7 +29,7 @@ Try it here: https://itsonlythebeginning.github.io/todo-react-v1/
 
 ```mermaid
 graph
-A[TasksContext] -- tasks --> B[App]
+A[TasksContext] --> B[App]
 B[App] --> C[TodoCreate]
 B[App] --> D[TodoStatus]
 B[App] --> E[TodoSearch]
